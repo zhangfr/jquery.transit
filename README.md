@@ -44,6 +44,8 @@ $("#box").css({ skewY: '30deg' });          // Skew vertical
 $("#box").css({ perspective: 100, rotateX: 30 }); // Webkit 3d rotation
 $("#box").css({ rotateY: 30 });
 $("#box").css({ rotate3d: [1, 1, 0, 45] });
+$("#box").css({ rotate3d: [1, 1, 0, 45] });
+$("#box").css({ rotate3d: [1, 1, 0, 45] });
 ```
 
 Relative values are supported.
